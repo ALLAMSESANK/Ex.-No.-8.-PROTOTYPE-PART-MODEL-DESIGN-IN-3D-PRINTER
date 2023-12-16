@@ -46,9 +46,14 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/ALLAMSESANK/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147120920/512cb69e-4c91-469f-86cc-c8738c7a64a9)
+![image](https://github.com/ALLAMSESANK/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147120920/f50ab051-bdfd-42ad-a945-237576678d5f)
+![image](https://github.com/ALLAMSESANK/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147120920/8274d516-0d6e-400e-9e63-10eac98cbca6)
+![image](https://github.com/ALLAMSESANK/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147120920/eed37a66-c413-443f-b4da-8f6d199e9020)
 
-### Name:
-### Register Number:
+
+### Name:A.Sesank
+### Register Number:23009543
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
